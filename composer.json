@@ -12,6 +12,6 @@
    "autoload": {
     "files": [
       "registration.php"
-    ],
+    ]
   }
 }
