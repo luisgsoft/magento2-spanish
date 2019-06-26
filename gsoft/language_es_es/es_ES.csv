@@ -1,0 +1,4 @@
+"My Cart Link","Mini carrito",module,Magento_Checkout
+"Payment Failed Emails","Email pagos erróneos",module,Magento_Checkout
+"Payment Failed Email Sender","From  pagos erróneos",module,Magento_Checkout
+"Payment Failed Template","Template pagos erróneos",module,Magento_Checkout
