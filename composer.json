@@ -9,8 +9,7 @@
   "require": {
     "mageplaza/magento-2-spanish-language-pack": "dev-master"
   },
-  "type": "magento2-language",
-  "autoload": {
+   "autoload": {
     "files": [
       "registration.php"
     ],
