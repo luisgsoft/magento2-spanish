@@ -7,8 +7,7 @@
     "AFL-3.0"
   ],
   "require": {
-    "magento/framework": "100.0.*",
-    "mageplaza/magento-2-spanish-language-pack": "dev-master",
+    "mageplaza/magento-2-spanish-language-pack": "dev-master"
   },
   "type": "magento2-language",
   "autoload": {
