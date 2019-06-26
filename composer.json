@@ -6,6 +6,14 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
+  "authors": [
+    {
+      "name": "Innovaciones informáticas GSOFT",
+      "email": "luis@gsoft.es",
+      "homepage": "https://www.gsoft.es"
+    }
+  ],
+  "minimum-stability": "dev",
   "require": {
     "mageplaza/magento-2-spanish-language-pack": "dev-master"
   },
