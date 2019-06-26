@@ -2,3 +2,4 @@
 "Payment Failed Emails","Email pagos erróneos",module,Magento_Checkout
 "Payment Failed Email Sender","From  pagos erróneos",module,Magento_Checkout
 "Payment Failed Template","Template pagos erróneos",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
