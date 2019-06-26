@@ -14,10 +14,5 @@
     "files": [
       "registration.php"
     ],
-    "extra": {
-      "installer-paths": {
-        "app/i18n/{$name}/": ["gsoft/language-es_es", "vendor/package"]
-      }
-    }
   }
 }
