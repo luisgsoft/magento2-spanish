@@ -1,5 +1,5 @@
 {
-  "name": "gsoft/language-es_es",
+  "name": "gsoftes/language-es_es",
   "description": "Spanish language",
   "version": "100.0.1",
   "license": [
@@ -13,6 +13,11 @@
   "autoload": {
     "files": [
       "registration.php"
-    ]
+    ],
+    "extra": {
+      "installer-paths": {
+        "app/i18n/{$name}/": ["gsoft/language-es_es", "vendor/package"]
+      }
+    }
   }
 }
