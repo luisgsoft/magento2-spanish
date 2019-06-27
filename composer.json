@@ -1,0 +1,26 @@
+{
+  "name": "gsoftes/language-es_es",
+  "description": "Spanish language",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "type": "magento2-language",
+  "authors": [
+    {
+      "name": "Innovaciones informáticas GSOFT",
+      "email": "luis@gsoft.es",
+      "homepage": "https://www.gsoft.es"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "mageplaza/magento-2-spanish-language-pack": "dev-master"
+  },
+   "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
