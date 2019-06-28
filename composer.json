@@ -15,9 +15,6 @@
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "require": {
-    "mageplaza/magento-2-spanish-language-pack": "dev-master"
-  },
    "autoload": {
     "files": [
       "registration.php"
