@@ -3,3 +3,31 @@
 "Payment Failed Email Sender","From  pagos erróneos",module,Magento_Checkout
 "Payment Failed Template","Template pagos erróneos",module,Magento_Checkout
 "Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
+"CMS No Route Page","Página 404",module,Magento_Cms
+"CMS No Cookies Page","Página Cookies desactivadas",module,Magento_Cms
+"Show Breadcrumbs for CMS Pages","Mostrar breadcrumb en cms pages",module,Magento_Cms
+"Redirect to CMS-page if Cookies are Disabled","Redirigir a una pagina cms si las cookies están desactivadas",module,Magento_Cms
+"Show Notice if JavaScript is Disabled","Mostrar aviso si el javascript está desactivado",module,Magento_Cms
+"WYSIWYG Options","WYSIWYG Options",module,Magento_Cms
+"Enable WYSIWYG Editor","Activar WYSIWYG Editor",module,Magento_Cms
+"CMS Page Link","CMS Page link",module,Magento_Cms
+"Link to a CMS Page","Link to a CMS Page",module,Magento_Cms
+"Select Page...","Seleccionar página...",module,Magento_Cms
+"If empty, the Page Title will be used","Si está en blanco, se usará el título de la página",module,Magento_Cms
+"Thank you!","¡Gracias!"
+"As low as","Desde"
+"item(s) in your cart","producto(s) en el carrito"
+"Total item(s)","Artículos"
+"Enabled by Default","Activado por defecto",module,Magento_Cms
+"Disabled by Default","Desactivado por defecto",module,Magento_Cms
+"Disabled Completely","Desactivado",module,Magento_Cms
+"Do you have any comments?","¿Desea dejarnos algún comentario?"
+"Enter comment","Comentario"
+"Forgot Password","He olvidado mi contraseña"
+"Forgot your password","He olvidado mi contraseña"
+"Recently Ordered","Comprado recientemente",module,Magento_Sales
+"This Wish List has no Items","Su lista de favoritos no tiene artículos",module,Magento_Wishlist
+"We can't find this wish list.","No podemos encontrar su lista de favoritos.",module,Magento_AdvancedCheckout
+"Add to Wish List","Añadir a favoritos",module,Magento_Catalog
+"Wish List","Favoritos",module,Magento_CustomerSegment
+"My Wish List","Mis favoritos",module,Magento_Wishlist
