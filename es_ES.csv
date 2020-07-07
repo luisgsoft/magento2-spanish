@@ -31,3 +31,25 @@
 "Add to Wish List","Añadir a favoritos",module,Magento_Catalog
 "Wish List","Favoritos",module,Magento_CustomerSegment
 "My Wish List","Mis favoritos",module,Magento_Wishlist
+"A block identifier with the same properties already exists in the selected store.","Ya existe un bloque con ese identificador",module,Magento_Cms
+"CMS Static Block","Bloque estático",module,Magento_Cms
+"CMS Static Block Default Template","Bloque estático plantilla por defecto",module,Magento_Cms
+"Yes (302 Found)","Sí (302 encontrado)",module,Magento_Config
+"Yes (301 Moved Permanently)","Si (301 Permanente movido)",module,Magento_Config
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Solo usuarios registrados pueden escribir comentarios. Por favor, <a href=""%1""> inicie sesión</a>",module,Magento_Review
+"Quote Lifetime (days)","Diás de vida de un carrito",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart","Redirigir al carrito después de añadir un producto",module,Magento_Checkout
+"Only %1 left","Disponibilidad: %1 ud.",module,Magento_CatalogInventory
+"My Product Reviews","Mis Reseñas",module,Magento_Review
+"Optional","Opcional",module,Magento_Config
+"Last Logged In","Último login",module,Magento_Customer
+"Last Logged In:","Último inicio de sesión:",module,Magento_Customer
+"Last Logged In (%1):","Última sesión iniciada (%1):",module,Magento_Customer
+"Account Lock:","Bloqueo de cuenta:",module,Magento_Customer
+"Confirmed email:","Email confirmado:",module,Magento_Customer
+"Account Created:","Cuenta creada:",module,Magento_Customer
+"Account Created in:","Cuenta creada en:",module,Magento_Customer
+"Customer Group:","Grupo de cliente:",module,Magento_Customer
+"Tax/VAT number","CIF/NIF",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Emal / contraseña incorrectos"
+"Clear Shopping Cart","Vaciar el carrito",module,Magento_Sales
