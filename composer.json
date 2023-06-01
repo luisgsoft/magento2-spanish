@@ -1,0 +1,28 @@
+{
+    "name": "gsoft/magento-2-es-language-pack",
+    "description": "Spanish language package for Magento 2",
+    "homepage": "https://www.mageplaza.com",
+    "require": {
+        "mageplaza/magento-2-spanish-language-pack": "*"
+    },
+    "version": "1.0.0",
+    "type": "magento2-language",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Gsoft team",
+            "email": "luis@gsoft.es",
+            "homepage": "https://www.gsoft.es",
+            "role": "Leader"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

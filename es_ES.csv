@@ -1,0 +1,27 @@
+"SKU","SKU",module,Magento_AdvancedCheckout
+"Sku","SKU",module,Magento_AdvancedCheckout
+"SKU","SKU",module,Magento_Bundle
+"SKU","SKU",module,Magento_BundleStaging
+"SKU","SKU",module,Magento_Catalog
+"SKU","SKU",module,Magento_CatalogRule
+"SKU","SKU",module,Magento_CatalogStaging
+"SKU","SKU",module,Magento_CatalogWidget
+"SKU","SKU",module,Magento_ConfigurableProduct
+"SKU","SKU",module,Magento_ConfigurableProductStaging
+"SKU","SKU",module,Magento_Customer
+"SKU","SKU",module,Magento_Downloadable
+"SKU","SKU",module,Magento_GiftRegistry
+"SKU","SKU",module,Magento_GroupedProduct
+"SKU","SKU",module,Magento_GroupedProductStaging
+"SKU","SKU",module,Magento_MultipleWishlist
+"SKU","SKU",module,Magento_NegotiableQuote
+"SKU","SKU",module,Magento_Reminder
+"SKU","SKU",module,Magento_Reports
+"SKU","SKU",module,Magento_Review
+"SKU","SKU",module,Magento_Sales
+"SKU","SKU",module,Magento_Shipping
+"SKU","SKU",module,Magento_UrlRewrite
+"SKU","SKU",module,Magento_VisualMerchandiser
+"CMS Static Block","Bloque CMS",module,Magento_Cms
+"CMS Static Block Default Template","Bloque CMS Plantilla Default",module,Magento_Cms
+"Content Heading","Contenido cabecera",module,Magento_Cms
