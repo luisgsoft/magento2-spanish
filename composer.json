@@ -1,7 +1,7 @@
 {
     "name": "gsoft/magento-2-es-language-pack",
     "description": "Spanish language package for Magento 2",
-    "homepage": "https://www.mageplaza.com",
+    "homepage": "https://www.gsoft.es",
     "require": {
         "mageplaza/magento-2-spanish-language-pack": "*"
     },
