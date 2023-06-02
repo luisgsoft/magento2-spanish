@@ -25,3 +25,9 @@
 "CMS Static Block","Bloque CMS",module,Magento_Cms
 "CMS Static Block Default Template","Bloque CMS Plantilla Default",module,Magento_Cms
 "Content Heading","Contenido cabecera",module,Magento_Cms
+"CMS No Route Page","Página 404",module,Magento_Cms
+"CMS No Cookies Page","Página Cookies no activadas",module,Magento_Cms
+"Show Breadcrumbs for CMS Pages","Mostrar breadcrumbs en páginas CMS",module,Magento_Cms
+"Meta Description","Meta descripción",module,Magento_Catalog
+
+
