@@ -29,5 +29,10 @@
 "CMS No Cookies Page","Página Cookies no activadas",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","Mostrar breadcrumbs en páginas CMS",module,Magento_Cms
 "Meta Description","Meta descripción",module,Magento_Catalog
-
-
+"Payment Failed Emails","Email pagos erróneos",module,Magento_Checkout
+"Payment Failed Email Sender","Email pagos erróneos sender",module,Magento_Checkout
+"Payment Failed Template","Email pagos erróneos - Plantilla",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Copia de email pago erróneo",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Método de copia de email pago erróneo",module,Magento_Checkout
+"Bcc","Copia oculta",module,Magento_Config
+"Separate Email","Emails separados",module,Magento_Config
